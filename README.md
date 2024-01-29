@@ -1,6 +1,6 @@
 # Krypt
 
-# Welcome to CryptoWorldTransfers! This decentralized application allows users to securely send cryptocurrencies across the world in a seamless and efficient manner.
+# Welcome to CryptoWorldTransfers! This decentralized application allows users to securely send cryptocurrencies across the world in a seamless and efficient manner
 Features
 
     Global Transactions: Send cryptocurrencies across borders swiftly and securely.
