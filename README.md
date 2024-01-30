@@ -19,6 +19,6 @@ Features
 # To get started with CryptoWorldTransfers on your local machine, follow these steps:
 Prerequisites
 
-    Node.js installed
-    Ethereum wallet 
-    Access to an Ethereum testnet (Ropsten, Rinkeby, etc.) or a local blockchain environment (Ganache)
+    Node.js installed.
+    Ethereum wallet. 
+    Access to an Ethereum testnet (Ropsten, Rinkeby, etc.) or a local blockchain environment (Ganache).
