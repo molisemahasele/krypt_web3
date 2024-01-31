@@ -20,5 +20,5 @@ Features
 Prerequisites
 
     Node.js installed
-    Ethereum wallet. 
+    Ethereum wallet
     Access to an Ethereum testnet (Ropsten, Rinkeby, etc.) or a local blockchain environment (Ganache).
