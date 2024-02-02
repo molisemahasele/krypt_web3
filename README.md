@@ -9,7 +9,7 @@ Features
 
 # Technologies Used
 
-    Web3.js: Library that interacts with Ethereum smart contracts.
+    Web3.js: Library that interacts with Ethereum smart contracts
     Solidity: Smart contract development language.
     React: Frontend framework for building user interfaces.
     Node.js: JavaScript runtime environment.
