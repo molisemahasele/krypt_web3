@@ -3,9 +3,9 @@
 # Welcome to CryptoWorldTransfers! This decentralized application allows users to securely send cryptocurrencies across the world in a seamless and efficient manner
 Features
 
-    Global Transactions: Send cryptocurrencies across borders swiftly and securely
-    User-Friendly Interface: Intuitive design for easy navigation and seamless transactions
-    Secure and Reliable: Utilizes the power of blockchain technology for secure transactions
+    Global Transactions: Send cryptocurrencies across borders swiftly and securely.
+    User-Friendly Interface: Intuitive design for easy navigation and seamless transactions.
+    Secure and Reliable: Utilizes the power of blockchain technology for secure transactions.
 
 # Technologies Used
 
