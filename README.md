@@ -11,7 +11,7 @@ Features
 
     Web3.js: Library that interacts with Ethereum smart contracts
     Solidity: Smart contract development language
-    React: Frontend framework for building user interfaces.
+    React: Frontend framework for building user interfaces
     Node.js: JavaScript runtime environment
 
 # Getting Started
