@@ -5,7 +5,7 @@ Features
 
     Global Transactions: Send cryptocurrencies across borders swiftly and securely
     User-Friendly Interface: Intuitive design for easy navigation and seamless transactions
-    Secure and Reliable: Utilizes the power of blockchain technology for secure transactions.
+    Secure and Reliable: Utilizes the power of blockchain technology for secure transactions
 
 # Technologies Used
 
