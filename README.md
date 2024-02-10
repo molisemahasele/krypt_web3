@@ -21,4 +21,4 @@ Prerequisites
 
     Node.js installed
     Ethereum wallet
-    Access to an Ethereum testnet (Ropsten, Rinkeby, etc.) or a local blockchain environment (Ganache).
+    Access to an Ethereum testnet (Ropsten, Rinkeby, etc.) or a local blockchain environment (Ganache)
